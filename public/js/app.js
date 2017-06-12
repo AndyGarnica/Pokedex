@@ -24,7 +24,7 @@ $.getJSON("http://pokeapi.co/api/v2/pokemon/",
 // xhr.send();
 
 function crearPokemons(pokemons) {
-	var ul = document.getElementById("pokemons");
+	var ul = document.getElementById("pokemones");
 
 	pokemons.forEach(function (pokemon) {
 		var li = document.createElement("li");
