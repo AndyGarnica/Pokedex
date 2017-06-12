@@ -1,0 +1,27 @@
+{
+  "name": "ajax-demo",
+  "version": "1.0.0",
+  "description": "XHR Probando XMHtppRequest con JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivandevp/xhr-js-jquery.git"
+  },
+  "keywords": [
+    "js",
+    "xhr",
+    "json"
+  ],
+  "author": "Andrea Garnica <elsa.garnica01@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivandevp/xhr-js-jquery/issues"
+  },
+  "homepage": "https://github.com/ivandevp/xhr-js-jquery#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
