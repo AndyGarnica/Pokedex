@@ -1,5 +1,6 @@
 var xhr = new XMLHttpRequest();
 
+// plantilla de imagenes
 var imagenes = [
 	{
 		"imagen":"img/bulbasaur.png"
